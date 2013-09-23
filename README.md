@@ -1,0 +1,1 @@
+This is a panel mount for the reprap discount LCD. It is designed to fit in the four front holes in a mendel max 2.0. There is a slot in the side for an SD card mount, a hole for the reset button and a place for the knob to go.
